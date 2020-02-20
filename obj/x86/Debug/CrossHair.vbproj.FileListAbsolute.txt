@@ -1,0 +1,36 @@
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\bin\Debug\CrossHair.exe
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\bin\Debug\CrossHair.pdb
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\bin\Debug\CrossHair.xml
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form1.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form2.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form3.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form4.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form5.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form6.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form7.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form8.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Resources.resources
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.exe
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.xml
+C:\Visual Basic\CrossHair\CrossHair\CrossHair\obj\x86\Debug\CrossHair.pdb
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\bin\Debug\CrossHair.exe
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\bin\Debug\CrossHair.pdb
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\bin\Debug\CrossHair.xml
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form1.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form2.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form3.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form4.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form5.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form6.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form7.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Form8.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.Resources.resources
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.exe
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.xml
+K:\SnowReborn\SnowReborn\Visual Basic\vb stuffs\CrossHair test 2\CrossHair Final version\CrossHair\CrossHair\obj\x86\Debug\CrossHair.pdb
